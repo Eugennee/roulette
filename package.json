@@ -1,0 +1,12 @@
+{
+  "name": "roulette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "roulette.js",
+  "scripts": {
+    "start": "node roulette"
+  },
+  "keywords": [],
+  "author": "Eugennee",
+  "license": "ISC"
+}
